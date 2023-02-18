@@ -1,0 +1,13 @@
+Instructions for runnig the code - 
+
+downloading the ZIP folder attached in moodle.
+
+create " learn to compose " folder on google drive
+
+Extract and upload ! as is ! the content (**all the content in the zip file**) directly to the the google drive folder - learn to compose
+
+runing the notebook with GPU
+
+
+
+
